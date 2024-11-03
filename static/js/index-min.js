@@ -594,7 +594,7 @@ searchEngineLogoPath = staticServerURI + "img/"; (function(f, h) {
     e = e.find("#web-site-body");
     var p = e.find(".web-group");
     $.ajax({
-        url: serverURI + "data/category.json",
+        url: serverURI + "static/js/category.json",
         type: "get",
         async: !0,
         timeout: 0,
@@ -707,7 +707,7 @@ searchEngineLogoPath = staticServerURI + "img/"; (function(f, h) {
         getSiteList: function(b) {
             a.curReqMark = (new Date).format("ddhhmmss");
             $.ajax({
-                url: serverURI + "data/details/data_" + b + ".json",
+                url: serverURI + "static/js/details/data_" + b + ".json",
                 type: "get",
                 async: !0,
                 timeout: 0,
@@ -975,7 +975,7 @@ searchEngineLogoPath = staticServerURI + "img/"; (function(f, h) {
         },
         getClassList: function() {
             $.ajax({
-                url: serverURI + "data/bglist.json",
+                url: serverURI + "static/js/bglist.json",
                 type: "get",
                 async: !0,
                 dataType: "json",
@@ -1009,7 +1009,7 @@ searchEngineLogoPath = staticServerURI + "img/"; (function(f, h) {
         getImgList: function(b) {
             var c = a.contentGroupView;
             $.ajax({
-                url: serverURI + "data/bgdetails/data_" + b + ".json",
+                url: serverURI + "static/js/bgdetails/data_" + b + ".json",
                 type: "get",
                 dataType: "json",
                 async: !0,
