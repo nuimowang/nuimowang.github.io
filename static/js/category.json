@@ -6,51 +6,23 @@
     },
     {
       "id": "2",
-      "className": "\u7537\u751f"
+      "className": "\u91d1\u878d"
     },
     {
       "id": "3",
-      "className": "\u5973\u751f"
+      "className": "\u653f\u52a1"
     },
     {
       "id": "4",
-      "className": "\u751f\u6d3b"
+      "className": "\u8d44\u6e90"
     },
     {
       "id": "5",
-      "className": "\u8bbe\u8ba1"
+      "className": "\u79d1\u6280"
     },
     {
       "id": "6",
-      "className": "\u4ea7\u54c1"
-    },
-    {
-      "id": "7",
-      "className": "\u804c\u80fd"
-    },
-    {
-      "id": "8",
-      "className": "\u8fd0\u8425"
-    },
-    {
-      "id": "9",
-      "className": "\u521b\u4e1a"
-    },
-    {
-      "id": "10",
-      "className": "Android"
-    },
-    {
-      "id": "11",
-      "className": "IOS"
-    },
-    {
-      "id": "12",
-      "className": "JavaWeb"
-    },
-    {
-      "id": "13",
-      "className": "\u8da3\u5473"
+      "className": "\u5176\u4ed6"
     }
   ],
   "outerClasses": [
@@ -60,7 +32,7 @@
     },
     {
       "id": "15",
-      "className": "\u77e5\u8bc6"
+      "className": "\u79d1\u6280"
     },
     {
       "id": "16",
@@ -76,23 +48,7 @@
     },
     {
       "id": "19",
-      "className": "\u540d\u54c1"
-    },
-    {
-      "id": "20",
-      "className": "\u673a\u6784"
-    },
-    {
-      "id": "21",
-      "className": "\u5927\u5b66"
-    },
-    {
-      "id": "22",
-      "className": "\u519b\u4e8b"
-    },
-    {
-      "id": "23",
-      "className": "\u8da3\u5473"
+      "className": "\u5176\u4ed6"
     }
   ]
 }
