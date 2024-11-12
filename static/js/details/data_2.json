@@ -15,13 +15,13 @@
                     "id": 62,
                     "siteName": "集思录",
                     "siteUrl": "https://www.jisilu.cn/",
-                    "logoResourceId": ""
+                    "logoResourceId": "images/Site/jisilu.png"
                 },
                 {
                     "id": 63,
                     "siteName": "东财新股",
                     "siteUrl": "https://data.eastmoney.com/xg/xg/?mkt=kzz",
-                    "logoResourceId": ""
+                    "logoResourceId": "images/Site/dfcf.png"
                 },
                 {
                     "id": 64,
@@ -52,19 +52,19 @@
                     "id": 67,
                     "siteName": "安邦咨询",
                     "siteUrl": "http://www.anbound.com.cn/",
-                    "logoResourceId": ""
+                    "logoResourceId": "images/Site/anbang.png"
                 },
                 {
                     "id": 68,
                     "siteName": "未来智库",
                     "siteUrl": "https://www.vzkoo.com/",
-                    "logoResourceId": ""
+                    "logoResourceId": "images/Site/wlzk.png"
                 },
                 {
                     "id": 69,
                     "siteName": "观研报告",
                     "siteUrl": "https://www.chinabaogao.com/",
-                    "logoResourceId": ""
+                    "logoResourceId": "images/Site/gybg.png"
                 },
                 {
                     "id": 70,

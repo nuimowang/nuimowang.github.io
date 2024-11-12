@@ -101,13 +101,13 @@
                     "id": 14,
                     "siteName": "优酷",
                     "siteUrl": "http://www.youku.com/",
-                    "logoResourceId": "images/Site/e82e76ece853406091597e590b186485.png"
+                    "logoResourceId": "images/Site/youku.png"
                 },
                 {
                     "id": 15,
                     "siteName": "爱奇艺",
                     "siteUrl": "http://www.iqiyi.com/",
-                    "logoResourceId": "images/Site/e295e3d45c034c568323402fc1320b68.png"
+                    "logoResourceId": "images/Site/iqiyi.png"
                 },
                 {
                     "id": 16,
